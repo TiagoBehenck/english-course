@@ -14,30 +14,6 @@ export const Container = styled.View`
   justify-content: center;
 `;
 
-export const Icon = styled.Image.attrs({
-  resizeMode: 'contain',
-})`
-  width: 168px;
-  height: 171px;
-  border-radius: ${metrics.baseRadius * 2}px;
-`;
-
-export const Title = styled.Text`
-  font-family: 'OpenSans-Bold';
-  text-transform: uppercase;
-  font-size: ${fonts.superBig}px;
-  color: ${colors.primary};
-  margin-top: ${metrics.base * 2}px;
-`;
-
-export const Tip = styled.Text`
-  font-family: 'Nunito-Regular';
-  text-align: center;
-  font-size: ${fonts.bigger}px;
-  color: ${colors.grayRegular};
-  margin-top: ${metrics.base * 2}px;
-`;
-
 export const ButtonContainer = styled.TouchableOpacity`
   margin-top: ${metrics.base}px;
   height: 50px;
