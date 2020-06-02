@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/csorlandi">
-    <img alt="Made by Claudio Orlandi" src="https://img.shields.io/badge/made%20by-Claudio%20Orlandi-brightgreen">
+    <img alt="Made by Claudio Orlandi" src="https://img.shields.io/badge/made%20by-Claudio%20Orlandi-4348ca">
   </a>
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/csorlandi/english-course">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/csorlandi/english-course?color=4348ca">
 
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/csorlandi/english-course">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/csorlandi/english-course?color=4348ca">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=4348ca">
 </p>
 
 <p align="center">O English Course App é um projeto que inicialente seria feito como Freelancing, mas em consenso com o cliente (que seria o proprietário da aplicação) decidiu-se liberá-lo para ser desenvolvido completamente durante as Streams (<a href="https://twitch.tv/csorlandi" target="_blank">link para acompanhar</a>), de forma aberta e gratuita!
